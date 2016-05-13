@@ -1,0 +1,9 @@
+#wallstreet_doc
+
+This is the main documentation of the Wall Street Module
+
+Here are some basic recommendations:
+
+1)All the programmers that are comitted to the Wall Street Project will create a seperate branch, and only when they have debugged and verified the code will they sync or publish it.
+2)Use the whole text for identifiers and/or very understable Abbreviations.
+3)They can change this documentation as much as they want, however they should put the timings and stamps.
