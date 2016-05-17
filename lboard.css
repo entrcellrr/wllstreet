@@ -1,0 +1,79 @@
+/* CSS Document */
+body{
+background-image:url(../images/paper004.gif);
+background-repeat:repeat-xy;
+font-family:"calibri"
+}
+#container {width:99.7%; margin:auto; margin-top:2px; height:100%; margin-left:11px;}
+#top #top_left
+{
+float:left;
+width:33.33%;
+}
+#top #top_middle
+{
+padding-left:5px;
+padding-right:5px;
+float:left;
+width:32%
+}
+#top #top_right
+{
+float:left;
+width:33.33%
+}
+
+#bottom #bottom_left
+{
+position:relative;
+float:left;
+width:55%;
+top:20px;
+}
+
+#bottom #bottom_right
+{
+position:relative;
+float:left;
+width:40%;
+top:20px;
+}
+#bottom #bottom_right td{
+padding:8px 60px;}
+#bottom #bottom_left td{
+padding:8px 50px;}
+#bottom #bottom_right table{
+margin-left:50px;}
+table{
+text-align:justify;
+margin:0px;
+box-shadow:10px 10px 60px;}
+
+td{
+text-align:justify;
+padding:8px 40px;
+margin:0px;
+font-size:16.3px;}
+
+td:nth-child(3){
+padding:5px 30px;
+}
+
+td:nth-child(2){
+letter-spacing:3px;}
+
+tr{
+background:#CCCCCC}
+
+tr:nth-child(2n+1){
+background:#CCCCFF}
+
+tr th{
+background:#666666;
+color:#FFFFFF;
+text-align:center;}
+.tablehead{
+background-color:#1B1B1B}
+
+.disable{
+color:#999999}
